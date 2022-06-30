@@ -1,3 +1,8 @@
 <?php
 
-echo 'Hi';
+$a = 5;
+$b = 10;
+
+if ($a > $b) {
+    echo 'Hi';
+}
