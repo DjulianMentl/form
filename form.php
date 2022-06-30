@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Решите задачу</title>
+    <title>Решите задачу на суммирование двух чисел</title>
 </head>
 <body>
     <h1>Решите задачу</h1>

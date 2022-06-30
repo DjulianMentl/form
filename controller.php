@@ -36,3 +36,6 @@ if (!isset($error)) {
     $sourceOperator2 = $op2;
     $sourceSum = $sum;
 }
+
+//психология важна. Двигайся к цели и придешь к ней.
+echo 'Вы молодец';
